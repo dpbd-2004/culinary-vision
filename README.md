@@ -2,8 +2,8 @@
 
 CulinaryVision is a full-stack web application that uses a fine-tuned YOLOv8 model to detect objects in images uploaded by a user. It features a Python FastAPI backend and a React frontend.
 
-![CulinaryVision Screenshot](<<img width="587" height="648" alt="image" src="https://github.com/user-attachments/assets/dc5ec763-f9a9-4112-9f83-2886b5999106" />
->)
+(<<img width="587" height="648" alt="image" src="https://github.com/user-attachments/assets/dc5ec763-f9a9-4112-9f83-2886b5999106" />)
+
 
 ---
 
