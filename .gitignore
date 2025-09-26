@@ -1,0 +1,25 @@
+# Python / Backend / Training
+# This ignores the entire virtual environment folder
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Node.js / Frontend
+# This ignores the massive node_modules folder
+node_modules/
+dist/
+.npm
+npm-debug.log*
+
+# Model Files
+# Ignoring large model files is good practice.
+# For professional projects, you'd use a tool like Git LFS for these.
+*.pt
+*.onnx
+
+# IDE & OS Files
+# Ignores settings folders from editors like VS Code and general OS clutter
+.vscode/
+.idea/
+.DS_Store
